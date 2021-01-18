@@ -139,7 +139,6 @@ html {
     width: 100%;
     text-align: center;
     padding-top: 20px;
-    padding-bottom: 20px;
   }
   .text-content{
     padding-bottom: 30px;
@@ -196,7 +195,23 @@ html {
     left: 50%;
     transform: translate(-50%, -50%);
   }
-  
+  .text-content li:hover{
+    color:#CB333B;
+  }
+  .next {
+    position: relative;
+    width: auto;
+    float: right;
+  }
+  .previous{
+    position: relative;
+    width: auto;
+    float: left ;
+  }
+  .previous img,
+  .next img{
+    max-height: 30px;
+  }
 
 
   
