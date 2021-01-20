@@ -46,6 +46,13 @@ html {
   h3{
     font-size: 24px;
     padding-bottom: 10px;
+    margin-top: 10px;
+    padding-top: 10px;
+    text-decoration: underline;
+  }
+  h4{
+    font-size: 20px;
+    text-decoration: underline;
   }
   /* END OF W3 STYLING */
   
@@ -67,8 +74,9 @@ html {
   }
   .content-row{
     width: 100%;
-    height: 10px;
+    height: 250px;
   }
+
   /* NAVIGATION BAR */
   li,
   a,
@@ -108,6 +116,19 @@ html {
     .nav_links li:hover {
       color:#CB333B;
     }
+    .text-link{
+      color: #CB333B;
+    }
+    .text-link:hover{
+      text-decoration: underline;
+    }
+    .return-link{
+      width: 30%;
+      margin-left: 35%;
+    }
+    .return-link:hover{
+      text-decoration: underline;
+    }
 
   /* Main Content */
   .side-menu{
@@ -137,8 +158,18 @@ html {
     max-width: 1000px;
     margin-top: 100px;
   }
-  .page-content img{
-    max-height: 100%;
+  .image{
+    width: 80%;
+    margin-left: 10%;
+    margin-right: 10%;
+    padding-top: 40px;
+    padding-bottom: 40px;
+  }
+  .image p{
+    font-size: 12px;
+    text-align: center;
+  }
+  .img-style{
     max-width: 100%;
   }
   .page-content li{
@@ -220,9 +251,9 @@ html {
   .next img{
     max-height: 30px;
   }
-  .end-notes{
-    padding: 20px;
-    background-color: rgb(218, 218, 218);
+  .end-notes h3,
+  .hint h3{
+    text-decoration: none;
   }
   .end-notes img{
     float: left;
@@ -234,5 +265,32 @@ html {
     padding: 20px;
     text-align: center;
   }
-
-  
+  .task,
+  .hint,
+  .end-notes,
+  .video{
+    padding: 20px;
+    margin-top: 20px;
+    font-size: 18px;
+  }
+  .end-notes{
+    border-left: 7px solid rgb(35, 92, 30);
+    background-color: rgb(194, 248, 201);
+  }
+  .task{
+    border-left: 7px solid rgb(0, 89, 255);
+    background-color: rgb(210, 244, 255);
+  }
+  .hint{
+    border-left: 7px solid rgb(212, 0, 255);
+    background-color: rgb(250, 210, 255);
+  }
+  .video{
+    border-left: 7px solid goldenrod;
+    background-color: rgb(255, 239, 199);
+  }
+  .border{
+    padding-left: 20px;
+    margin-bottom: 10px;
+    border-left: 7px solid gray;
+  }
