@@ -4,7 +4,7 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Year 9 Units Homepage</title>
+    <title>Music Homepage</title>
     <link rel="stylesheet" href="../styles/styles.css">
     <link rel="icon" href="favicon.ico">
 </head>
@@ -12,7 +12,7 @@
 <body>
     <!-- Main header that is used across all the pages of our website -->
     <header>
-        <a href="index.html" class="logo"><img id="logo" src="images/MGS_logo.png" alt="Middleton Grange logo"></a>
+        <a href="index.php" class="logo"><img id="logo" src="images/MGS_logo.png" alt="Middleton Grange logo"></a>
         <nav>
             <ul class="nav_links">
                 <li><a href="Year_9.html">Home</a></li>
@@ -35,13 +35,9 @@
 
 
         <div class="page-content">
-            <h1 class="page-heading">Year 9 Music Units</h1>
-            <a href="units/guitar_keyboard/guitar_and_keyboard_home.html" class="units"><img src="images/guitar_and_keyboard/guitar_576W.jpg" alt="Guitar and Keyboard">
-                <div class="overlay"><div class="text">Guitar and Keyboard</div></div></a>
-            <div class="units"><img src="images/song-writing/song-writing-576W.jpg" alt="Composition and Song-Writing">
-                <div class="overlay"><div class="text">Composition and Song-Writing (Coming Soon)</div></div></div>
-            <div class="units"><img src="images/digital-music/digital_music.jpg" alt="Digital Music">
-                <div class="overlay"><div class="text">Digital Music (Coming Soon)</div></div></div>
+            <h1 class="page-heading">Year 9 Music</h1>
+            <h2>This is a PHP page!!</h2>
+            
         </div>
     </main>
 
