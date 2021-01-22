@@ -4,6 +4,7 @@ html {
   -ms-text-size-adjust: 100%;
   -webkit-text-size-adjust: 100%;
   line-height: 1.5;
+  height: 100%;
 }
 *,
 *:before,
@@ -11,6 +12,7 @@ html {
   box-sizing: inherit;
 }
 body {
+  height: 100%;
   margin: 0;
   font: 18px "Roboto",Helvetica,Arial,sans-serif;
 }
@@ -128,8 +130,9 @@ header {
 
 /*Footer*/
 .footer{
+  position: absolute;
   width: 100%;
-  height: auto;
+  height: 100px;
   background-color: #24252a;
 }
 .footer p{
@@ -143,6 +146,7 @@ header {
 .main{
   display: flex;
   margin: auto;
+  height: 100%;
   max-width: 1170px;
 }
 .side-menu{
@@ -167,6 +171,7 @@ header {
 .page-content{
   float: right;
   width: 90%;
+  height: auto;
   padding-left: 30px;
   padding-right: 30px;
   max-width: 1000px;
@@ -210,6 +215,23 @@ header {
   display: block;
   max-width: 100%;
 }
+.aural{
+  position: relative;
+  float: left;
+  width: 50%;
+  height: 300px;
+  color: white; 
+  background-color: teal;
+}
+.aural p{
+  position: relative;
+  float: left;
+  text-align: center;
+  font-size: 40px;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+}
 .content-half{
   position: relative;
   float: left;
@@ -234,6 +256,9 @@ header {
 }
 .units:hover .overlay{
   opacity: 0.8;
+}
+.aural:hover .overlay{
+  opacity: 1;
 }
 .content-half:hover .overlay{
   opacity: 0.8;
@@ -266,13 +291,18 @@ header {
   max-height: 30px;
 }
 .end-notes h3,
-.hint h3{
+.hint h3,
+.note h3{
   text-decoration: none;
 }
 .end-notes img{
   float: left;
   max-width: 50%;
   max-height: 30px;
+}
+
+.end-notes .icon{
+  max-width: 40px;
 }
 .small-print{
   font-size: 12px;
@@ -282,9 +312,11 @@ header {
 .task,
 .hint,
 .end-notes,
-.video{
-  padding: 20px;
+.video,
+.note{
+  padding: 15px;
   margin-top: 20px;
+  margin-bottom: 15px;
   font-size: 18px;
 }
 .end-notes{
@@ -303,8 +335,31 @@ header {
   border-left: 7px solid goldenrod;
   background-color: rgb(255, 239, 199);
 }
+.note{
+  border-left: 7px solid rgb(119, 32, 218);
+  background-color: rgb(239, 211, 255);
+  font-size: 10px;
+}
 .border{
   padding-left: 20px;
   margin-bottom: 10px;
+  margin-top: 20px;
   border-left: 7px solid gray;
 }
+.icon{
+  max-width: 40px;
+  padding-right: 10px;
+}
+.show{
+  display: none;
+}
+
+
+@media screen and (max-width: 900px) {
+.side-menu{
+  display:none;
+  }
+.page-content{
+  width: 100%;
+}
+  }
