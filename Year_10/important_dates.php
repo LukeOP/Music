@@ -14,9 +14,16 @@
 
 <div class="page-content">
     <h1 class="page-heading">Important Dates</h1>
-    <h2 class="header">Header 1</h2>
     <div class="text-content">
-        <p>here is some text content</p>
+        <p>Here are the important and upcoming dates for Year 10 Music. This gives you a rough idea of when things are due and will be updated throughout the year.
+            For greater detail, ask Mr. Noble</p>
+        <h2>Term 1</h2>
+        <h3>Week 2</h3>
+        <p>Solo Performance to the Class</p>
+        <h3>Week 10</h3>
+        <p>Contempory Music Assessment Due</p>
+        <h3>Week 11</h3>
+        <p>Group Performance</p>
     </div>
 </div>
 

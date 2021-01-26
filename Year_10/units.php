@@ -13,13 +13,15 @@
 <?php include($_SERVER['DOCUMENT_ROOT'] . '/templates/Y10_sidemenu.php') ?>
 
 <div class="page-content">
-    <h1 class="page-heading">Year 9 Music Units</h1>
-    <a href="units/guitar_keyboard/guitar_and_keyboard.php" class="units"><img src="images/guitar_and_keyboard/guitar_576W.jpg" alt="Guitar and Keyboard">
-        <div class="overlay"><div class="text">Guitar and Keyboard</div></div></a>
-    <div class="units"><img src="images/song-writing/song-writing-576W.jpg" alt="Composition and Song-Writing">
-        <div class="overlay"><div class="text">Composition and Song-Writing (Coming Soon)</div></div></div>
-    <div class="units"><img src="images/digital-music/digital_music.jpg" alt="Digital Music">
-        <div class="overlay"><div class="text">Digital Music (Coming Soon)</div></div></div>
+    <h1 class="page-heading">Year 10 Music Units</h1>
+    <a href="units/guitar_keyboard/guitar_and_keyboard.php" class="Y10_units"><img src="images/guitar_and_keyboard/guitar_576W.jpg" alt="Term 1: Contemporary Music">
+        <div class="overlay"><div class="text">Term 1: Contemporary Music</div></div></a>
+    <div class="Y10_units"><img src="images/song-writing/song-writing-576W.jpg" alt="Term 2: Classical Music">
+        <div class="overlay"><div class="text">Term 2: Classical Music</div></div></div>
+    <div class="Y10_units"><img src="images/digital-music/digital_music.jpg" alt="Term 3: Jazz">
+        <div class="overlay"><div class="text">Term 3: Jazz</div></div></div>
+    <div class="Y10_units"><img src="images/digital-music/digital_music.jpg" alt="Term 4: Music Production">
+        <div class="overlay"><div class="text">Term 4: Music Production</div></div></div>
 </div>
 
 <?php include($_SERVER['DOCUMENT_ROOT'] . '/templates/footer.php') ?>

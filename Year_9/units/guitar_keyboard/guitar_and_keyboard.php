@@ -25,13 +25,13 @@
         <p>Select the instrument and lets get learning!</p>
     </div>
     <div class="content-row">
-        <a href="guitar_skills.php" class="content-half">
+        <a href="guitar/guitar_skills.php" class="content-half">
                 <img src="/Year_9/images/guitar_and_keyboard/guitar.jpg">
                 <div class="overlay">
                     <div class="text">Learn Guitar!</div>
                 </div>
         </a>
-        <a href="#" class="content-half">
+        <a href="keyboard/keyboard_skills.php" class="content-half">
             <img src="/Year_9/images/guitar_and_keyboard/keyboard.jpg" alt="Guitar and Keyboard">
             <div class="overlay">
                 <div class="text">Learn Keyboard!</div>
