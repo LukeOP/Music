@@ -6,7 +6,7 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Year 10 - Theory</title>
     <link rel="stylesheet" href="/styles/styles.css">
-    <link rel="icon" href="favicon.ico">
+    <link rel="icon" href="/favicon.ico">
 </head>
 
 <?php include($_SERVER['DOCUMENT_ROOT'] . '/templates/Y10_header.php') ?>

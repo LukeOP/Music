@@ -6,7 +6,7 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Guitar Skills - Lesson 1</title>
     <link rel="stylesheet" href="/styles/styles.css">
-    <link rel="icon" href="favicon.ico">
+    <link rel="icon" href="/favicon.ico">
 </head>
 
 <?php include($_SERVER['DOCUMENT_ROOT'] . '/templates/header.php') ?>
@@ -16,9 +16,11 @@
     <h1 class="page-heading">Lesson 1 Review</h1><br>
     <div class="text-content">
         <p>You have now been introduced to the main parts of the guitar. Complete the task below to test yourself and see what you can remember.</p><br>
-        <div class="hint"><h3><img src="/images/hint.svg" alt="" class="icon">Hint:</h3>If you can't see the form below, try signing into your microsoft account or use 
-            <a href="https://forms.office.com/Pages/ResponsePage.aspx?id=9SuBcUmkjEKokiT3wjTxBe0AmH33PnlCiZj4qxyT34BUMDk5Q1I0RjVTVUVSNDZIUVFBTlVFTkRHUy4u"  target="_blank" rel="noopener noreferrer" class="text-link">this link.</a></div>
-        <br><iframe width="100%" height= "600px" src= "https://forms.office.com/Pages/ResponsePage.aspx?id=9SuBcUmkjEKokiT3wjTxBe0AmH33PnlCiZj4qxyT34BUMDk5Q1I0RjVTVUVSNDZIUVFBTlVFTkRHUy4u&embed=true" frameborder= "0" marginwidth= "0" marginheight= "0" style= "border: none; max-width:100%; max-height:100vh" allowfullscreen webkitallowfullscreen mozallowfullscreen msallowfullscreen> </iframe>
+        <div class="hint">
+            <h3><img src="/images/hint.svg" alt="" class="icon">Hint:</h3>If you can't see the form below, try signing into your microsoft account or use
+            <a href="https://forms.office.com/Pages/ResponsePage.aspx?id=9SuBcUmkjEKokiT3wjTxBe0AmH33PnlCiZj4qxyT34BUMDk5Q1I0RjVTVUVSNDZIUVFBTlVFTkRHUy4u" target="_blank" rel="noopener noreferrer" class="text-link">this link.</a>
+        </div>
+        <br><iframe width="100%" height="600px" src="https://forms.office.com/Pages/ResponsePage.aspx?id=9SuBcUmkjEKokiT3wjTxBe0AmH33PnlCiZj4qxyT34BUMDk5Q1I0RjVTVUVSNDZIUVFBTlVFTkRHUy4u&embed=true" frameborder="0" marginwidth="0" marginheight="0" style="border: none; max-width:100%; max-height:100vh" allowfullscreen webkitallowfullscreen mozallowfullscreen msallowfullscreen> </iframe>
 
         <br><br>
         <div class="end-notes">
