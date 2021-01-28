@@ -24,12 +24,12 @@
 
     <main style="max-width: 100%;">
         <a href="Year_9/Year_9.php">
-            <div class="year-9 content-half" style="height: 600px; background-color: cadetblue;">
+            <div class="year-9 content-half" style=" background-image:url(images/year_9_banner.png);">
                 <div class="home-page-text">Year 9</div>
             </div>
         </a>
         <a href="Year_10/Year_10.php">
-            <div class="year-10 content-half" style="height: 600px; background-color: coral;">
+            <div class="year-10 content-half" style="background-image:url(images/rsz_year_10_banner.jpg);">
                 <div class="home-page-text">Year 10</div>
             </div>
         </a>

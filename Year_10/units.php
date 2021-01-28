@@ -14,22 +14,27 @@
 
 <div class="page-content">
     <h1 class="page-heading">Year 10 Music Units</h1>
-    <a href="units/guitar_keyboard/guitar_and_keyboard.php" class="Y10_units"><img src="images/guitar_and_keyboard/guitar_576W.jpg" alt="Term 1: Contemporary Music">
+    <a href="units/contemporary/contemporary.php" class="Y10_units"><img src="images/contemporary-main.jpg" alt="Term 1: Contemporary Music">
+        <p>Term 1: Contemporary</p>
         <div class="overlay">
-            <div class="text">Term 1: Contemporary Music</div>
+            <div class="text">Term 1: Contemporary</div>
         </div>
     </a>
-    <div class="Y10_units"><img src="images/song-writing/song-writing-576W.jpg" alt="Term 2: Classical Music">
+    <div class="Y10_units">
+        <img src="images/classical-main.jpg" alt="Term 2: Classical Music">
+        <p>Term 2: Classical Music</p>
         <div class="overlay">
             <div class="text">Term 2: Classical Music</div>
         </div>
     </div>
-    <div class="Y10_units"><img src="images/digital-music/digital_music.jpg" alt="Term 3: Jazz">
+    <div class="Y10_units"><img src="images/jazz-main.jpg" alt="Term 3: Jazz">
+        <p>Term 3: Jazz</p>
         <div class="overlay">
             <div class="text">Term 3: Jazz</div>
         </div>
     </div>
-    <div class="Y10_units"><img src="images/digital-music/digital_music.jpg" alt="Term 4: Music Production">
+    <div class="Y10_units"><img src="images/music-production-main.jpg" alt="Term 4: Music Production">
+        <p>Term 4: Music Production</p>
         <div class="overlay">
             <div class="text">Term 4: Music Production</div>
         </div>
