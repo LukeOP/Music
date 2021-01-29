@@ -13,8 +13,8 @@
 <?php include($_SERVER['DOCUMENT_ROOT'] . '/templates/Y10_sidemenu.php') ?>
 
 <div class="page-content">
-    <h1 class="page-heading">Contemporary Music</h1>
-    <h2 class="header">Groovy Music in the 1960's</h2>
+    <h1 class="page-heading">Contemporary</h1>
+    <h2 class="header">Header 1</h2>
     <div class="text-content">
         <p>here is some text content</p>
     </div>
