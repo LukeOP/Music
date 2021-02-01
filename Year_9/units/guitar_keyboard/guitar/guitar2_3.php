@@ -13,27 +13,26 @@
 <?php include($_SERVER['DOCUMENT_ROOT'] . '/templates/sidemenu.php') ?>
 
 <div class="page-content">
-    <h1 class="page-heading">Lesson 2 Practise</h1><br>
+    <h1 class="page-heading">More TAB Practise!</h1><br>
     <div class="text-content">
-        <p>Now that you know how to read TAB, practise on the following pieces:</p><br>
         <div class="task">
-            <h3><img src="/images/task-guitar.svg" alt="" class="icon">Mary Had A Little Lamb</h3>
+            <h3><img src="/images/task-guitar.svg" alt="" class="icon">God Defend New Zealand (National Anthem)</h3>
             <div class="image"><img src="" alt="" class="img-style"></div>
         </div>
         <div class="task">
-            <h3><img src="/images/task-guitar.svg" alt="" class="icon">Twinkle, Twinkle</h3>
+            <h3><img src="/images/task-guitar.svg" alt="" class="icon">In The Hall Of The Mountain King</h3>
+            <p>There are lots of short notes in this song, so slow the whole thing down and practise only a little bit at a time.
+                <i>Make sure you use the correct fingers on the frets.</i> This will prevent you from moving your hand up and down the neck too much.
+            </p>
             <div class="image"><img src="" alt="" class="img-style"></div>
         </div>
         <div class="task">
-            <h3><img src="/images/task-guitar.svg" alt="" class="icon">Baa Baa, Black Sheep</h3>
+            <h3><img src="/images/task-guitar.svg" alt="" class="icon">Frere Jacques</h3>
             <div class="image"><img src="" alt="" class="img-style"></div>
         </div>
         <div class="task">
-            <h3><img src="/images/task-guitar.svg" alt="" class="icon">Happy Birthday</h3>
-            <div class="image"><img src="" alt="" class="img-style"></div>
-        </div>
-        <div class="task">
-            <h3><img src="/images/task-guitar.svg" alt="" class="icon">Ode To Joy</h3>
+            <h3><img src="/images/task-guitar.svg" alt="" class="icon">Walkie Talkie Man</h3>
+            <p>Play it slowly at first using the fingers shown here. Break it down and practise only the first four notes, then just the second four, etc. Then put it all together.</p>
             <div class="image"><img src="" alt="" class="img-style"></div>
         </div>
 
@@ -41,10 +40,8 @@
         <br><br>
         <div class="end-notes">
             <h3><img src="/images/lesson-thoughts.svg" alt="" class="icon">Lesson thoughts:</h3>
-            <p>You've now got the basics of playing TAB sorted. If you would like to play some more tunes <a href="guitar2_3.php" class="text-link">click here for more!</a></p>
-            <p></p>
             <p>Once you have completed this lesson feel free to move onto lesson 3 where we can learn some chords!</p><br>
-            <a href="guitar2_1.php"><img src="/Year_9/images/nav/left-arrow.svg"></a>
+            <a href="guitar2_2.php"><img src="/Year_9/images/nav/left-arrow.svg"></a>
             <a href="guitar3_0.php"><img src="/Year_9/images/nav/right-arrow.svg"></a><br><br>
         </div><br>
         <a href="guitar_skills.php" class="return-link"><img src="/Year_9/images/nav/guitar.svg" style="max-width: 50px;">Return to Guitar skills homepage</a>

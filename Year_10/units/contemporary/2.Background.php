@@ -55,11 +55,11 @@
 
     <div class="end-notes">
         <h3><img src="/images/lesson-thoughts.svg" alt="" class="icon">Lesson thoughts:</h3>
-        <p>By now you should see that there are a lot of genres that could be classed as "Contemporary". Over the next few weeks we are going to go through the decades and see what music was popular at the time, the present world-views, and how this was also reflected in Christian Contemporary Music.</p>
+        <p>By now you should see that there are a lot of genres that could be classed as "Contemporary". Over the next few weeks we are going to explore popular world-views in music, and how this is reflected in Christian Contemporary Music.</p>
         <br>
-        <p>On the next page we will start our journey exploring the groovy 1960's.</p>
+        <p>On the next page we will start our journey into exploring world-views.</p>
         <a href="1.1WhatIsContemporaryMusic.php"><img src="/Year_9/images/nav/left-arrow.svg"></a>
-        <a href="3.The1960s.php"><img src="/Year_9/images/nav/right-arrow.svg"></a><br><br>
+        <a href="3.ExploringWorldviews.php"><img src="/Year_9/images/nav/right-arrow.svg"></a><br><br>
     </div><br>
 </div>
 

@@ -27,28 +27,22 @@
             <a href="2.Background.php">
                 <li>The Background of Contemporary Music</li>
             </a>
-            <a href="3.The1960s.php">
-                <li>Groovy Music in the 1960's</li>
+            <a href="3.ExploringWorldviews.php">
+                <li>Exploring World-Views in Contemporary Music</li>
             </a>
             <a href="#">
-                <li>Disco, Rock in the 1970's</li>
+                <li>Hedonism - The Persuit of Pleasure</li>
             </a>
             <a href="#">
-                <li>Catching the 1980's New Wave</li>
+                <li>Materialism - The Persuit of Possesions</li>
             </a>
             <a href="#">
-                <li>Teen Pop and Boy Bands 1990's</li>
-            </a>
-            <a href="#">
-                <li>Music explosion in the 2000's</li>
-            </a>
-            <a href="#">
-                <li>Indie Pop in the 2010's</li>
+                <li>Existentialism - The Persuit of Choice</li>
             </a>
         </ol>
         <br>
         <p>At the conclusion of this unit you should be able to explain the current changes in music development during the Contemporary Music era.
-            You will also perform a CCM song to the class as a group.</p>
+            You will also <strong> perform a CCM song</strong> to the class as a group.</p>
 
     </div>
 </div>

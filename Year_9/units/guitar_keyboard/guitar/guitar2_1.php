@@ -13,7 +13,7 @@
 <?php include($_SERVER['DOCUMENT_ROOT'] . '/templates/sidemenu.php') ?>
 
 <div class="page-content">
-    <h1 class="page-heading">Lesson 2 - Reading TAB</h1><br>
+    <h1 class="page-heading">Lesson 2 - Reading TAB (Extension)</h1><br>
     <div class="text-content">
         <div class="image"><img class="img-style" src="/Year_9/images/guitar_and_keyboard/slash-symbol-guitar-tab.jpg">
             <p><i>An example of guitar TAB Symbols</i></p>
