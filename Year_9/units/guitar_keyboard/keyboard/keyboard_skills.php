@@ -26,15 +26,8 @@
                     <li>Lesson 2 - Musical Notation</li>
                 </a>
                 <a href="keyboard3_0.php">
-                    <li>Lesson 3 - Playing Chords</li>
+                    <li>Lesson 3 - Playing Chords (I and V7)</li>
                 </a>
-                <a href="#">
-                    <li>Lesson 4 - </li>
-                </a>
-                <li>Lesson 5 - </li>
-                <li>Lesson 6 - </li>
-                <li>Lesson 7 - </li>
-                <li>Lesson 8 - </li>
             </ul>
         </div>
     </div>

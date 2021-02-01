@@ -106,6 +106,7 @@ header {
   color: #24252a;
   box-shadow: 0px 0px 10px gray;
 }
+
 .logo {
   cursor: pointer;
   margin-right: auto;
@@ -524,9 +525,9 @@ header {
   /* Position the tooltip */
   position: absolute;
   z-index: 1;
-  top: 100%;
+  top: -250%;
   left: 50%;
-  margin-left: -60px;
+  margin-left: -150px;
 }
 
 .text-content .tooltip:hover .tooltiptext {
