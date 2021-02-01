@@ -16,7 +16,7 @@
     <h1 class="page-heading">Contemporary Music</h1>
     <h2 class="header">Hedonism - The Persuit of Pleasure</h2>
     <div class="text-content">
-        <div class="image" style="width:100%; margin:0;"><img src="/Year_10/images/contemporary/hedonism.jpg" alt="" class="img-style"></div>
+        <div class="image" style="width:100%; margin:0;"><img src="/Year_10/images/contemporary/hedonism_1000W.jpeg" alt="" class="img-style"></div>
         <h3 class="border">What is Hedonism?</h3>
         <p>Hedonism is a school of thought that argues that pleasure is the only <a class="tooltip">intrinsic <span class="tooltiptext">Something natural or true</span></a> good. In very simple terms, a hedonist strives to maximize net pleasure.</p>
 
