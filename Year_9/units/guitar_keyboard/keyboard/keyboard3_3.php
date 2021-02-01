@@ -24,13 +24,19 @@
             <h3><img src="/images/task-piano.svg" alt="" class="icon">Your Turn</h3>
             <p>Here's a classic tune. This time you have faster rhythms in your left hand. Take it slowly to start with.</p>
             <h3>When The Saints Go Marching In</h3>
-            <div class="image"><img src="" alt="" class="img-style"></div>
+            <div class="image"><img src="/Year_9/images/guitar_and_keyboard/keyboard/When-the-saints.PNG" alt="" class="img-style"></div>
+            <div class="audio"><audio class="audio-style" controls>
+                    <source src="/Year_9/audio/keyboard/When the Saints Go Marching In.mp3" type="audio/mp3">
+                </audio></div>
         </div>
 
         <div class="task">
             <h3><img src="/images/task-piano.svg" alt="" class="icon">Your Turn</h3>
             <h3>Mary Ann</h3>
-            <div class="image"><img src="" alt="" class="img-style"></div>
+            <div class="image"><img src="/Year_9/images/guitar_and_keyboard/keyboard/Mary-Ann.PNG" alt="" class="img-style"></div>
+            <div class="audio"><audio class="audio-style" controls>
+                    <source src="/Year_9/audio/keyboard/Mary Ann.mp3" type="audio/mp3">
+                </audio></div>
         </div>
 
 

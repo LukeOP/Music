@@ -60,13 +60,17 @@
         <p><a class="tooltip">Chord progressions <span class="tooltiptext">A series of chords played one after the other</span></a> are often notated using roman numerals.
             Let's start by learning chord I (Chord 1 or the 'tonic' chord) and chord V7 (Chord 5 dominant Seventh chord).</p><br>
 
-        <h4 style="text-decoration: none;">Chord I</h4>
-        <h4 style="text-decoration: none;">Chord V7</h4>
+        <h4 style="text-decoration: none;">Chord I in C Major is a C Major triad. It can be played like this:</h4>
+        <div class="image"><img src="/Year_9/images/guitar_and_keyboard/keyboard/Cmajor_Chord_combo.PNG" alt="" class="img-style"></div>
+        <br>
+        <h4 style="text-decoration: none;">Chord V7 in C Major is a G Dominant Seventh. It can be played like this:</h4>
+        <div class="image"><img src="/Year_9/images/guitar_and_keyboard/keyboard/Gdom7_combo.PNG" alt="" class="img-style"></div>
 
         <div class="task">
             <h3><img src="/images/task-piano.svg" alt="" class="icon">Your Turn</h3>
             <p>Practise playing these chords in your left hand until you can play it smoothly.
                 Play by "feel". try to avoid looking at your hand for the chord changes.</p>
+            <div class="image"><img src="/Year_9/images/guitar_and_keyboard/keyboard/C-to-G7.PNG" alt="" class="img-style"></div>
         </div>
 
         <h4>Chord Symbols</h4>

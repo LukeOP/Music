@@ -30,11 +30,11 @@
             <a href="3.ExploringWorldviews.php">
                 <li>Exploring World-Views in Contemporary Music</li>
             </a>
-            <a href="#">
+            <a href="4.Hedonism.php">
                 <li>Hedonism - The Persuit of Pleasure</li>
             </a>
             <a href="#">
-                <li>Materialism - The Persuit of Possesions</li>
+                <li>Materialism - The Persuit of Possessions</li>
             </a>
             <a href="#">
                 <li>Existentialism - The Persuit of Choice</li>

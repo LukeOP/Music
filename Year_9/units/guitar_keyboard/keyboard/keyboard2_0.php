@@ -59,7 +59,11 @@
             <h3><img src="/images/task-piano.svg" alt="" class="icon">Your Turn</h3>
             <p>Here is the music for Beethoven's '<i>Ode To Joy</i>' again, this time using musical notation.</p>
             <br>
-            <p>Try playing through the song again using this music. Notice that the second half is using your left hand but it still starts on a C, only this time it is an octave lower.</p>
+            <p>Try playing through the song again using this notated music.</p>
+            <div class="image"><img src="/Year_9/images/guitar_and_keyboard/keyboard/Ode_To_Joy.PNG" alt="" class="img-style"></div>
+            <div class="audio"><audio class="audio-style" controls>
+                    <source src="/Year_9/audio/keyboard/Ode To Joy.mp3" type="audio/mp3">
+                </audio></div>
         </div>
 
 

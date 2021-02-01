@@ -19,12 +19,18 @@
         <div class="task">
             <h3><img src="/images/task-piano.svg" alt="" class="icon">Mary Had A Little Lamb</h3>
             <p>Have a go at playing this song with chords in your left hand and the melody in your right.</p>
-            <div class="image"><img src="" alt="" class="img-style"></div>
+            <div class="image"><img src="/Year_9/images/guitar_and_keyboard/keyboard/Mary_had_a_little_lamb.PNG" alt="" class="img-style"></div>
+            <div class="audio"><audio class="audio-style" controls>
+                    <source src="/Year_9/audio/keyboard/Mary Had A Little Lamb.mp3" type="audio/mp3">
+                </audio></div>
         </div>
         <div class="task">
             <h3><img src="/images/task-piano.svg" alt="" class="icon">Old Woman</h3>
             <p>Have a go at playing this song with chords in your left hand and the melody in your right.</p>
-            <div class="image"><img src="" alt="" class="img-style"></div>
+            <div class="image"><img src="/Year_9/images/guitar_and_keyboard/keyboard/Old_woman.PNG" alt="" class="img-style"></div>
+            <div class="audio"><audio class="audio-style" controls>
+                    <source src="/Year_9/audio/keyboard/Old Woman.mp3" type="audio/mp3">
+                </audio></div>
         </div>
 
 

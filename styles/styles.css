@@ -225,7 +225,8 @@ header {
   background-color: #CB333B;
 }
 
-.image {
+.image,
+.audio {
   width: 80%;
   margin-left: 10%;
   margin-right: 10%;
@@ -240,6 +241,10 @@ header {
 
 .img-style {
   max-width: 100%;
+}
+
+.audio-style {
+  width: 98%;
 }
 
 .vid {
@@ -447,41 +452,42 @@ header {
   margin-top: 20px;
   margin-bottom: 15px;
   font-size: 18px;
+  border-left: 7px solid;
 }
 
 .end-notes {
-  border-left: 7px solid rgb(35, 92, 30);
+  border-left-color: rgb(35, 92, 30);
   background-color: rgb(194, 248, 201);
 }
 
 .task {
-  border-left: 7px solid rgb(0, 89, 255);
+  border-left-color: rgb(0, 89, 255);
   background-color: rgb(231, 248, 253);
 }
 
 .hint {
-  border-left: 7px solid rgb(212, 0, 255);
+  border-left-color: rgb(212, 0, 255);
   background-color: rgb(250, 210, 255);
 }
 
 .video {
-  border-left: 7px solid goldenrod;
+  border-left-color: goldenrod;
   background-color: rgb(255, 239, 199);
 }
 
 .note {
-  border-left: 7px solid rgb(119, 32, 218);
+  border-left-color: rgb(119, 32, 218);
   background-color: rgb(239, 211, 255);
   font-size: 10px;
 }
 
 .discuss {
-  border-left: 7px solid rgb(255, 102, 0);
+  border-left-color: rgb(255, 102, 0);
   background-color: rgb(255, 236, 219);
 }
 
 .quote {
-  border-left: 7px solid rgb(53, 53, 53);
+  border-left-color: rgb(53, 53, 53);
   background-color: rgb(241, 241, 241);
 }
 
@@ -525,7 +531,7 @@ header {
   /* Position the tooltip */
   position: absolute;
   z-index: 1;
-  top: -250%;
+  top: 100%;
   left: 50%;
   margin-left: -150px;
 }

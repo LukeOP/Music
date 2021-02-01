@@ -20,18 +20,34 @@
         <div class="task">
             <h3><img src="/images/task-piano.svg" alt="" class="icon">Your Turn</h3>
             <p><strong>Twinkle Twinkle</strong></p>
-        </div>
-        <div class="task">
-            <h3><img src="/images/task-piano.svg" alt="" class="icon">Your Turn</h3>
-            <p><strong>Happy Birthday</strong></p>
-        </div>
-        <div class="task">
-            <h3><img src="/images/task-piano.svg" alt="" class="icon">Your Turn</h3>
-            <p><strong>Frere Jacques</strong></p>
+            <div class="image"><img src="/Year_9/images/guitar_and_keyboard/keyboard/Twinkle, twinkle.PNG" alt="" class="img-style"></div>
+            <div class="audio"><audio class="audio-style" controls>
+                    <source src="/Year_9/audio/keyboard/Twinkle, Twinkle.mp3" type="audio/mp3">
+                </audio></div>
         </div>
         <div class="task">
             <h3><img src="/images/task-piano.svg" alt="" class="icon">Your Turn</h3>
             <p><strong>Jingle Bells</strong></p>
+            <div class="image"><img src="/Year_9/images/guitar_and_keyboard/keyboard/Jingle_Bells.PNG" alt="" class="img-style"></div>
+            <div class="audio"><audio class="audio-style" controls>
+                    <source src="/Year_9/audio/keyboard/Jingle Bells.mp3" type="audio/mp3">
+                </audio></div>
+        </div>
+        <div class="task">
+            <h3><img src="/images/task-piano.svg" alt="" class="icon">Your Turn</h3>
+            <p><strong>Frere Jacques</strong> - Note names have been given.</p>
+            <div class="image"><img src="/Year_9/images/guitar_and_keyboard/keyboard/Frere_Jacques.PNG" alt="" class="img-style"></div>
+            <div class="audio"><audio class="audio-style" controls>
+                    <source src="/Year_9/audio/keyboard/Frere Jacques.mp3" type="audio/mp3">
+                </audio></div>
+        </div>
+        <div class="task">
+            <h3><img src="/images/task-piano.svg" alt="" class="icon">Your Turn</h3>
+            <p><strong>Happy Birthday</strong></p>
+            <div class="image"><img src="/Year_9/images/guitar_and_keyboard/keyboard/happy_birthday.PNG" alt="" class="img-style"></div>
+            <div class="audio"><audio class="audio-style" controls>
+                    <source src="/Year_9/audio/keyboard/Happy Birthday.mp3" type="audio/mp3">
+                </audio></div>
         </div>
 
     </div>

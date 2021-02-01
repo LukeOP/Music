@@ -32,7 +32,10 @@
             <p>Use all you have learnt including ties and rests to play the following piece.
                 Take your time, and don't move on until you can play it smoothly.</p>
             <h3>Lightly Row</h3>
-            <div class="image"><img src="" alt="" class="img-style"></div>
+            <div class="image"><img src="/Year_9/images/guitar_and_keyboard/keyboard/lightly-row.PNG" alt="" class="img-style"></div>
+            <div class="audio"><audio class="audio-style" controls>
+                    <source src="/Year_9/audio/keyboard/Lightly Row.mp3" type="audio/mp3">
+                </audio></div>
         </div>
 
 

@@ -17,6 +17,15 @@
     <h2 class="header">Header 1</h2>
     <div class="text-content">
         <p>here is some text content</p>
+
+
+
+        
+        <div class="end-notes">
+            <h3><img src="/images/lesson-thoughts.svg" alt="" class="icon">Lesson thoughts:</h3>
+            <a href="1.1WhatIsContemporaryMusic.php"><img src="/Year_9/images/nav/left-arrow.svg"></a>
+            <a href="3.ExploringWorldviews.php"><img src="/Year_9/images/nav/right-arrow.svg"></a><br><br>
+        </div><br>
     </div>
 </div>
 
