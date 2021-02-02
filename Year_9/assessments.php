@@ -9,8 +9,8 @@
     <link rel="icon" href="/favicon.ico">
 </head>
 
-<?php include($_SERVER['DOCUMENT_ROOT'] . '/templates/Y10_header.php') ?>
-<?php include($_SERVER['DOCUMENT_ROOT'] . '/templates/Y10_sidemenu.php') ?>
+<?php include($_SERVER['DOCUMENT_ROOT'] . '/templates/header.php') ?>
+<?php include($_SERVER['DOCUMENT_ROOT'] . '/templates/sidemenu.php') ?>
 
 <div class="page-content">
     <h1 class="page-heading">Assessments</h1>
