@@ -43,7 +43,7 @@
         <br>
         <p>As we continue through this unit you will discover that there are too many styles to cover all of them! To give you and idea, take a look at this cool info-graphic that provides information about the dozens of styles in the last century.</p>
         <div class="task">
-            <h3><img src="/images/task-contemporary.svg" alt="" class="icon">Explore</h3>Take a look at the graphic at <a href="https://musicmap.info/" class="text-link">this link</a> and explore the many sub-categories of music that has existed during the contemporary era (From about 1950 to now).
+            <h3><img src="/images/task-contemporary.svg" alt="" class="icon">Explore</h3>Take a look at the graphic at <a href="https://musicmap.info/" class="text-link" target="_blank">this link</a> and explore the many sub-categories of music that has existed during the contemporary era (From about 1950 to now).
             <p><strong>Pick 3 genres that you haven't heard of before</strong> and have a listen to that style of music. Write a couple of sentences around what it was. If you are typing your answers you could include a link to a musical example.</p>
             <div class="image"><img src="/Year_10/images/contemporary/musicmap.jpg" alt="" class="img-style"></div>
             <div class="image"><img src="/Year_10/images/contemporary/musicmap2.jpg" alt="" class="img-style"></div>
