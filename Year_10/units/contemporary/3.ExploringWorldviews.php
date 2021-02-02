@@ -24,7 +24,7 @@
         <h3 style="text-decoration: none; text-align: center;">If music reflects the state that society is in... what does it reveal about us?</h3>
         <div class="task">
             <h3><img src="/images/task-contemporary.svg" alt="" class="icon">Have a Think...</h3>
-            <p>Take a look at the top 40 songs in New Zealand right now. You can look them up <a href="https://nztop40.co.nz/chart/singles" class="text-link">here!</a></p>
+            <p>Take a look at the top 40 songs in New Zealand right now. You can look them up <a href="https://nztop40.co.nz/chart/singles" class="text-link" target="_blank">here!</a></p>
             <p>What do you think are the main themes in the songs that are making it to the top of the charts?
                 You may need to look up some of the lyrics. Note down <strong>three themes</strong> that you believe are common in these songs?</p>
             <br>
