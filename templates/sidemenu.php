@@ -12,7 +12,7 @@
     <a href="/Year_9/important_dates.php"><img class="side-nav-icon" src="/images/nav/calendar.png">
         <p>Important Dates</p>
     </a>
-    <a href="/Year_9/assessments.php"><img class="side-nav-icon" src="/images/nav/check-box.svg">
+    <!--<a href="/Year_9/assessments.php"><img class="side-nav-icon" src="/images/nav/check-box.svg">
         <p>Submitting Assessments</p>
-    </a>
+    </a>-->
 </div>
