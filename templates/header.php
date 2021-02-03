@@ -18,7 +18,7 @@
                 <li><a href="/Year_9/Year_9.php">Home</a></li>
                 <li><a href="/Year_9/units.php">Units</a></li>
                 <li><a href="/Year_9/aural.php">Aural</a></li>
-                <li><a href="/Year_9/theory.php">Theory</a></li>
+                <!--<li><a href="/Year_9/theory.php">Theory</a></li>-->
             </ul>
         </nav>
     </header>
