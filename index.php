@@ -4,7 +4,7 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Music Homepage</title>
+    <title>Music Homepage - MGS</title>
     <link rel="stylesheet" href="styles/styles.css">
     <link rel="icon" href="/favicon.ico">
 </head>
