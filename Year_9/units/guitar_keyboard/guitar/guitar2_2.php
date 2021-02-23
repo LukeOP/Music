@@ -18,23 +18,23 @@
         <p>Now that you know how to read TAB, practise on the following pieces:</p><br>
         <div class="task">
             <h3><img src="/images/task-guitar.svg" alt="" class="icon">Mary Had A Little Lamb</h3>
-            <div class="image"><img src="" alt="" class="img-style"></div>
+            <div class="image"><img src="/Year_9/images/guitar_and_keyboard/Mary_had_a_little_lamb_TAB.png" alt="" class="img-style"></div>
         </div>
         <div class="task">
             <h3><img src="/images/task-guitar.svg" alt="" class="icon">Twinkle, Twinkle</h3>
-            <div class="image"><img src="" alt="" class="img-style"></div>
+            <div class="image"><img src="/Year_9/images/guitar_and_keyboard/Twinkle-twinkle-TAB.png" alt="" class="img-style"></div>
         </div>
         <div class="task">
             <h3><img src="/images/task-guitar.svg" alt="" class="icon">Baa Baa, Black Sheep</h3>
-            <div class="image"><img src="" alt="" class="img-style"></div>
+            <div class="image"><img src="/Year_9/images/guitar_and_keyboard/Baa-baa-black-sheep-TAB.png" alt="" class="img-style"></div>
         </div>
         <div class="task">
             <h3><img src="/images/task-guitar.svg" alt="" class="icon">Happy Birthday</h3>
-            <div class="image"><img src="" alt="" class="img-style"></div>
+            <div class="image"><img src="/Year_9/images/guitar_and_keyboard/Happy-birthday-TAB.png" alt="" class="img-style"></div>
         </div>
         <div class="task">
             <h3><img src="/images/task-guitar.svg" alt="" class="icon">Ode To Joy</h3>
-            <div class="image"><img src="" alt="" class="img-style"></div>
+            <div class="image"><img src="/Year_9/images/guitar_and_keyboard/Ode-to-joy-TAB.png" alt="" class="img-style"></div>
         </div>
 
 

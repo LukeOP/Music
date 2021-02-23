@@ -71,9 +71,7 @@
             <p>By now we have learnt a number of chords and how to play them. There are many more you could learn, including more advance 'barre chords';
                 however, these chords will alow you to play the majority of pop songs written in the last century.</p>
             <br>
-            <p>On the next page we will </p><br>
-            <a href="guitar3_0.php"><img src="/Year_9/images/nav/left-arrow.svg"></a>
-            <a href="guitar4_0.php"><img src="/Year_9/images/nav/right-arrow.svg"></a><br><br>
+            <a href="guitar3_0.php"><img src="/Year_9/images/nav/left-arrow.svg"></a><br><br>
         </div><br>
         <a href="guitar_skills.php" class="return-link"><img src="/Year_9/images/nav/guitar.svg" style="max-width: 50px;">Return to Guitar skills homepage</a>
         <div class="small-print">Information sourced from "https://guitargearfinder.com/guides/reading-chord-diagrams/"<br>

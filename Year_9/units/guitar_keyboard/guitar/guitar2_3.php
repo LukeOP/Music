@@ -17,23 +17,23 @@
     <div class="text-content">
         <div class="task">
             <h3><img src="/images/task-guitar.svg" alt="" class="icon">God Defend New Zealand (National Anthem)</h3>
-            <div class="image"><img src="" alt="" class="img-style"></div>
+            <div class="image"><img src="/Year_9/images/guitar_and_keyboard/God-defend-nz-TAB.png" alt="" class="img-style"></div>
         </div>
         <div class="task">
             <h3><img src="/images/task-guitar.svg" alt="" class="icon">In The Hall Of The Mountain King</h3>
             <p>There are lots of short notes in this song, so slow the whole thing down and practise only a little bit at a time.
                 <i>Make sure you use the correct fingers on the frets.</i> This will prevent you from moving your hand up and down the neck too much.
             </p>
-            <div class="image"><img src="" alt="" class="img-style"></div>
+            <div class="image"><img src="/Year_9/images/guitar_and_keyboard/hall-of-mountain-king-TAB.png" alt="" class="img-style"></div>
         </div>
         <div class="task">
             <h3><img src="/images/task-guitar.svg" alt="" class="icon">Frere Jacques</h3>
-            <div class="image"><img src="" alt="" class="img-style"></div>
+            <div class="image"><img src="/Year_9/images/guitar_and_keyboard/frere-jacques-TAB.png" alt="" class="img-style"></div>
         </div>
         <div class="task">
             <h3><img src="/images/task-guitar.svg" alt="" class="icon">Walkie Talkie Man</h3>
             <p>Play it slowly at first using the fingers shown here. Break it down and practise only the first four notes, then just the second four, etc. Then put it all together.</p>
-            <div class="image"><img src="" alt="" class="img-style"></div>
+            <div class="image"><img src="/Year_9/images/guitar_and_keyboard/Walkie-talkie-man-TAB.png" alt="" class="img-style"></div>
         </div>
 
 
