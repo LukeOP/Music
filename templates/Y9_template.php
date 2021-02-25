@@ -18,6 +18,13 @@
     <div class="text-content">
         <p>here is some text content</p>
     </div>
+
+    <div class="end-notes">
+        <h3><img src="/images/lesson-thoughts.svg" alt="" class="icon">Lesson thoughts:</h3>
+        <a href="#"><img src="/Year_9/images/nav/left-arrow.svg"></a>
+        <a href="#"><img src="/Year_9/images/nav/right-arrow.svg"></a><br><br>
+    </div><br>
+</div>
 </div>
 
 <?php include($_SERVER['DOCUMENT_ROOT'] . '/templates/footer.php') ?>

@@ -28,13 +28,13 @@
                 <a href="guitar3_0.php">
                     <li>Lesson 3 - Chord Diagrams</li>
                 </a>
-                <a href="#">
+                <a href="guitar4_0.php">
                     <li>Lesson 4 - Playing a Song</li>
                 </a>
-                <li>Lesson 5 - Barre Chords</li>
+                <!--<li>Lesson 5 - Barre Chords</li>
                 <li>Lesson 6 - Strumming Patterns</li>
                 <li>Lesson 7 - Finger Exercises</li>
-                <li>Lesson 8 - Guitar Riffs</li>
+                <li>Lesson 8 - Guitar Riffs</li>-->
             </ul>
         </div>
     </div>
