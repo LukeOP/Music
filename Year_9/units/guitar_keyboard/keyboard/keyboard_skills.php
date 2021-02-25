@@ -28,6 +28,9 @@
                 <a href="keyboard3_0.php">
                     <li>Lesson 3 - Playing Chords (I and V7)</li>
                 </a>
+                <a href="keyboard_extension.php">
+                    <li>Extra for Experts</li>
+                </a>
             </ul>
         </div>
     </div>
