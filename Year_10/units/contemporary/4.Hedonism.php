@@ -14,7 +14,7 @@
 
 <div class="page-content">
     <h1 class="page-heading">Contemporary Music</h1>
-    <h2 class="header">Hedonism - The Persuit of Pleasure</h2>
+    <h2 class="header">Hedonism - The Pursuit of Pleasure</h2>
     <div class="text-content">
         <div class="image" style="width:100%; margin:0;"><img src="/Year_10/images/contemporary/hedonism_1000W.jpeg" alt="" class="img-style"></div>
         <h3 class="border">What is Hedonism?</h3>

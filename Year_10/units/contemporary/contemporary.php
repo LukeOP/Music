@@ -31,16 +31,13 @@
                 <li>Exploring World-Views in Contemporary Music</li>
             </a>
             <a href="4.Hedonism.php">
-                <li>Hedonism - The Persuit of Pleasure</li>
+                <li>Hedonism - The Pursuit of Pleasure</li>
+            </a>
+            <a href="5.Materialism.php">
+                <li>Materialism - The Pursuit of Possessions</li>
             </a>
             <a href="#">
-                <li>Materialism - The Persuit of Possessions</li>
-            </a>
-            <a href="#">
-                <li>Existentialism - The Persuit of Choice</li>
-            </a>
-            <a href="/WhereAmI.php">
-                <li style="color: white;">Existentialism - The Persuit of Choice</li>
+                <li>Existentialism - The Pursuit of Choice</li>
             </a>
         </ol>
         <br>

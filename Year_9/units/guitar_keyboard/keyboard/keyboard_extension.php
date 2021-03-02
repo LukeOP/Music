@@ -44,24 +44,27 @@
             <div class="image"><img src="/Year_9/images/guitar_and_keyboard/keyboard/Soldiers_March.jpg" alt="" class="img-style"></div>
             <div class="audio"><audio class="audio-style" controls>
                     <source src="/Year_9/audio/keyboard/Soldier's March Robert Schumann - RIAM Grade II 2020.mp3" type="audio/mp3">
-                </audio></div>
+                </audio>
+                <p style="text-align: center;">There is a little bit of silence at the beginning of the recording...</p>
+            </div>
+        </div>
+
+        <div class="note">
+            <h3><img src="/images/notes.svg" alt="" class="icon">Note: More songs to come as Mr Noble finds and creates them...</h3>
         </div>
     </div>
-    <div class="note">
-        <h3><img src="/images/notes.svg" alt="" class="icon">Note: More songs to come as Mr Noble finds and creates them...</h3>
-
-    </div>
-</div>
 
 
 
-<div class="end-notes">
-    <h3><img src="/images/lesson-thoughts.svg" alt="" class="icon">Lesson thoughts:</h3>
-    <p></p>
-    <br>
-    <p></p><br><br><br>
-</div><br>
-<a href="keyboard_skills.php" class="return-link"><img src="/Year_9/images/nav/keyboard.svg" style="max-width: 50px;"> Return to Keyboard skills homepage</a>
+
+    <!--<div class="end-notes">
+        <h3><img src="/images/lesson-thoughts.svg" alt="" class="icon">Lesson thoughts:</h3>
+        <p></p>
+        <br>
+        <p></p><br><br><br>
+    </div><br>
+    <a href="keyboard_skills.php" class="return-link"><img src="/Year_9/images/nav/keyboard.svg" style="max-width: 50px;"> Return to Keyboard skills homepage</a>
+</div>-->
 </div>
 </div>
 </div>
