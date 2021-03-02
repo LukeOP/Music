@@ -22,6 +22,7 @@
             <a href="/downloads/Prelude with Note Names.pdf" class="text-link">Download here!</a>
             <div class="image"><img src="/Year_9/images/guitar_and_keyboard/keyboard/Prelude.jpg" alt="" class="img-style"></div>
         </div>
+
         <div class="task">
             <h3><img src="/images/task-piano.svg" alt="" class="icon">Amazing Grace</h3>
             <a class="text-link" href="/downloads/Amazing-Grace-Keyboard.pdf" download="">Download here!</a><br>
@@ -30,15 +31,22 @@
                     <source src="/Year_9/audio/keyboard/Amazing Grace.mp3" type="audio/mp3">
                 </audio></div>
         </div>
-    </div>
-    <div class="task">
-        <h3><img src="/images/task-piano.svg" alt="" class="icon">Moonlight Sonata 1st Movement</h3>
-        <a class="text-link" href="/downloads/Opus_27_No_2_Moonlight_Sonata_1st_movement.pdf" download="">Download here!</a><br>
-        <div class="image"><img src="/Year_9/images/guitar_and_keyboard/keyboard/Moonlight-sonata.png" alt="" class="img-style"></div>
-    </div>
-    <div class="note">
-        <h3><img src="/images/notes.svg" alt="" class="icon">Note: More songs to come as Mr Noble finds and creates them...</h3>
 
+        <div class="task">
+            <h3><img src="/images/task-piano.svg" alt="" class="icon">Moonlight Sonata 1st Movement - Beethoven</h3>
+            <a class="text-link" href="/downloads/Opus_27_No_2_Moonlight_Sonata_1st_movement.pdf" download="">Download here!</a><br>
+            <div class="image"><img src="/Year_9/images/guitar_and_keyboard/keyboard/Moonlight-sonata.png" alt="" class="img-style"></div>
+        </div>
+
+        <div class="task">
+            <h3><img src="/images/task-piano.svg" alt="" class="icon">Soldier's March - Schumann</h3>
+            <a class="text-link" href="/downloads/Opus_27_No_2_Moonlight_Sonata_1st_movement.pdf" download="">Download here!</a><br>
+            <div class="image"><img src="/Year_9/images/guitar_and_keyboard/keyboard/Moonlight-sonata.png" alt="" class="img-style"></div>
+        </div>
+        <div class="note">
+            <h3><img src="/images/notes.svg" alt="" class="icon">Note: More songs to come as Mr Noble finds and creates them...</h3>
+
+        </div>
     </div>
 
 
