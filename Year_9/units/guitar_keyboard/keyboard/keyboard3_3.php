@@ -44,9 +44,9 @@
             <h3><img src="/images/lesson-thoughts.svg" alt="" class="icon">Lesson thoughts:</h3>
             <p>Well done! If you have got this far then you are on your way to mastering Chord I and V7 with melodies, ties, rests, and dotted notes.</p>
             <br>
-            <p>On the next page we will introduce a new chord. Chord IV (4) also known as the <strong>Sub-Dominant</strong></p><br>
-            <a href="keyboard3_2.php"><img src="/Year_9/images/nav/left-arrow.svg"></a>
-            <a href="keyboard4_0.php"><img src="/Year_9/images/nav/right-arrow.svg"></a><br><br>
+            <<p>Check out some harder pieces and prctice your skills!</p><br>
+                <a href="keyboard3_2.php"><img src="/Year_9/images/nav/left-arrow.svg"></a>
+                <a href="keyboard_extension.php"><img src="/Year_9/images/nav/right-arrow.svg"></a><br><br>
         </div><br>
         <a href="keyboard_skills.php" class="return-link"><img src="/Year_9/images/nav/keyboard.svg" style="max-width: 50px;"> Return to Keyboard skills homepage</a>
 
