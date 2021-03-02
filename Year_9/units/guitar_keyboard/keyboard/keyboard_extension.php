@@ -40,24 +40,28 @@
 
         <div class="task">
             <h3><img src="/images/task-piano.svg" alt="" class="icon">Soldier's March - Schumann</h3>
-            <a class="text-link" href="/downloads/Opus_27_No_2_Moonlight_Sonata_1st_movement.pdf" download="">Download here!</a><br>
-            <div class="image"><img src="/Year_9/images/guitar_and_keyboard/keyboard/Moonlight-sonata.png" alt="" class="img-style"></div>
-        </div>
-        <div class="note">
-            <h3><img src="/images/notes.svg" alt="" class="icon">Note: More songs to come as Mr Noble finds and creates them...</h3>
-
+            <a class="text-link" href="/downloads/Soldiers_March.pdf" download="">Download here!</a><br>
+            <div class="image"><img src="/Year_9/images/guitar_and_keyboard/keyboard/Soldiers_March.jpg" alt="" class="img-style"></div>
+            <div class="audio"><audio class="audio-style" controls>
+                    <source src="/Year_9/audio/keyboard/Soldier's March Robert Schumann - RIAM Grade II 2020.mp3" type="audio/mp3">
+                </audio></div>
         </div>
     </div>
+    <div class="note">
+        <h3><img src="/images/notes.svg" alt="" class="icon">Note: More songs to come as Mr Noble finds and creates them...</h3>
+
+    </div>
+</div>
 
 
 
-    <div class="end-notes">
-        <h3><img src="/images/lesson-thoughts.svg" alt="" class="icon">Lesson thoughts:</h3>
-        <p></p>
-        <br>
-        <p></p><br><br><br>
-    </div><br>
-    <a href="keyboard_skills.php" class="return-link"><img src="/Year_9/images/nav/keyboard.svg" style="max-width: 50px;"> Return to Keyboard skills homepage</a>
+<div class="end-notes">
+    <h3><img src="/images/lesson-thoughts.svg" alt="" class="icon">Lesson thoughts:</h3>
+    <p></p>
+    <br>
+    <p></p><br><br><br>
+</div><br>
+<a href="keyboard_skills.php" class="return-link"><img src="/Year_9/images/nav/keyboard.svg" style="max-width: 50px;"> Return to Keyboard skills homepage</a>
 </div>
 </div>
 </div>
