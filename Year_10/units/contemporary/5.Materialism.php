@@ -98,7 +98,7 @@
 
         <div class="end-notes">
             <h3><img src="/images/lesson-thoughts.svg" alt="" class="icon">Lesson thoughts:</h3>
-            <p>Materialism has become a key world-view in society. After all you've heard of the golden rule haven't you?...</p>
+            <p>Materialism has become a key world-view in society. After all, you've heard of the golden rule haven't you?...</p>
             <br>
             <iframe class="video-embed" width="560" height="315" src="https://www.youtube.com/embed/KLXUAmZ7J5E" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
             <br><br>
