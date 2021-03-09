@@ -72,7 +72,7 @@
             <p>For more examples check out <a href="https://www.youtube.com/watch?v=WTGCsv6WaEY" class="text-link" target="_blank">Lady Gaga - Telephone</a></p>
             <p>Or <a href="https://www.youtube.com/watch?v=ywxLahpC1VQ" class="text-link" target="_blank">Daft Punk - One More Time</a></p><br>
             <a href="3.ExploringWorldviews.php"><img src="/Year_9/images/nav/left-arrow.svg"></a>
-            <a href="3.ExploringWorldviews.php"><img src="/Year_9/images/nav/right-arrow.svg"></a><br><br>
+            <a href="5.Materialism.php"><img src="/Year_9/images/nav/right-arrow.svg"></a><br><br>
         </div><br>
     </div>
 </div>

@@ -103,8 +103,8 @@
             <iframe class="video-embed" width="560" height="315" src="https://www.youtube.com/embed/KLXUAmZ7J5E" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
             <br><br>
             <p>and everyone wants to make the rules...</p>
-            <a href="3.ExploringWorldviews.php"><img src="/Year_9/images/nav/left-arrow.svg"></a><br>
-            <!--<a href="3.ExploringWorldviews.php"><img src="/Year_9/images/nav/right-arrow.svg"></a><br><br>-->
+            <a href="4.Hedonism.php"><img src="/Year_9/images/nav/left-arrow.svg"></a><br>
+            <a href="6.Existentialism.php"><img src="/Year_9/images/nav/right-arrow.svg"></a><br><br>
         </div><br>
     </div>
 </div>

@@ -36,7 +36,7 @@
             <a href="5.Materialism.php">
                 <li>Materialism - The Pursuit of Possessions</li>
             </a>
-            <a href="#">
+            <a href="6.Existentialism.php">
                 <li>Existentialism - The Pursuit of Choice</li>
             </a>
         </ol>
