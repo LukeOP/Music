@@ -23,6 +23,8 @@
 
         <div class="task">
             <h3><img src="/images/task-contemporary.svg" alt="" class="icon">Song 1: Born Again</h3>
+            <div class="image"><img src="/Year_10/images/contemporary/josh-garrels-born-again_mnu74eno.jpeg" alt="" class="img-style"></div>
+            <p>The lyrics can be found <a href="/downloads/Contemporary_Lyrics/Born Again - Josh Garrels.pdf" class="text-link" download>here!</a></p>
             <div class="audio"><audio class="audio-style" controls>
                     <source src="/Year_10/audio/Contemporary/01 - Born Again.mp3" type="audio/mp3">
                 </audio>
@@ -30,6 +32,7 @@
         </div>
         <div class="task">
             <h3><img src="/images/task-contemporary.svg" alt="" class="icon">Song 2: Die Free</h3>
+            <p>The lyrics can be found <a href="/downloads/Contemporary_Lyrics/Die Free - Fireflight.pdf" class="text-link" download>here!</a></p>
             <div class="audio"><audio class="audio-style" controls>
                     <source src="/Year_10/audio/Contemporary/01 - Die Free.mp3" type="audio/mp3">
                 </audio>
@@ -37,6 +40,7 @@
         </div>
         <div class="task">
             <h3><img src="/images/task-contemporary.svg" alt="" class="icon">Song 3: Fearless</h3>
+            <p>The lyrics can be found <a href="/downloads/Contemporary_Lyrics/Fearless - Jasmine Murray.pdf" class="text-link" download>here!</a></p>
             <div class="audio"><audio class="audio-style" controls>
                     <source src="/Year_10/audio/Contemporary/01 - Fearless.mp3" type="audio/mp3">
                 </audio>
