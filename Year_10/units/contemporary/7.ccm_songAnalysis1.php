@@ -22,27 +22,27 @@
         <p><strong> You will need to grab a copy of the 'song analysis' page from the content library in OneNote for each song.</strong></p>
 
         <div class="task">
-            <h3><img src="/images/task-contemporary.svg" alt="" class="icon">Song 1: Born Again</h3>
-            <div class="image"><img src="/Year_10/images/contemporary/josh-garrels-born-again_mnu74eno.jpeg" alt="" class="img-style"></div>
+            <h3><img src="/images/task-contemporary.svg" alt="" class="icon">Song 1: Born Again - Josh Garrels</h3>
             <p>The lyrics can be found <a href="/downloads/Contemporary_Lyrics/Born Again - Josh Garrels.pdf" class="text-link" download>here!</a></p>
+            <div class="image"><img src="/Year_10/images/contemporary/josh-garrels-born-again_mnu74eno.jpeg" alt="" class="img-style"></div>
             <div class="audio"><audio class="audio-style" controls>
                     <source src="/Year_10/audio/Contemporary/01 - Born Again.mp3" type="audio/mp3">
                 </audio>
             </div>
         </div>
         <div class="task">
-            <h3><img src="/images/task-contemporary.svg" alt="" class="icon">Song 2: Die Free</h3>
-            <div class="image"><img src="/Year_10/images/contemporary/Die_Free.jpg" alt="" class="img-style"></div>
+            <h3><img src="/images/task-contemporary.svg" alt="" class="icon">Song 2: Die Free - Fireflight</h3>
             <p>The lyrics can be found <a href="/downloads/Contemporary_Lyrics/Die Free - Fireflight.pdf" class="text-link" download>here!</a></p>
+            <div class="image"><img src="/Year_10/images/contemporary/Die_Free2.jpeg" alt="" class="img-style"></div>
             <div class="audio"><audio class="audio-style" controls>
                     <source src="/Year_10/audio/Contemporary/01 - Die Free.mp3" type="audio/mp3">
                 </audio>
             </div>
         </div>
         <div class="task">
-            <h3><img src="/images/task-contemporary.svg" alt="" class="icon">Song 3: Fearless</h3>
-            <div class="image"><img src="/Year_10/images/contemporary/josh-garrels-born-again_mnu74eno.jpeg" alt="" class="img-style"></div>
+            <h3><img src="/images/task-contemporary.svg" alt="" class="icon">Song 3: Fearless - Jasmine Murray</h3>
             <p>The lyrics can be found <a href="/downloads/Contemporary_Lyrics/Fearless - Jasmine Murray.pdf" class="text-link" download>here!</a></p>
+            <div class="image"><img src="/Year_10/images/contemporary/Fearless - Jasmine.jpeg" alt="" class="img-style"></div>
             <div class="audio"><audio class="audio-style" controls>
                     <source src="/Year_10/audio/Contemporary/01 - Fearless.mp3" type="audio/mp3">
                 </audio>
