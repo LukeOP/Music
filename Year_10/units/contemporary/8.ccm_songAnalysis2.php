@@ -22,41 +22,39 @@
         <p><strong> You will need to grab a copy of the 'song analysis' page from the content library in OneNote for each song.</strong></p>
 
         <div class="task">
-            <h3><img src="/images/task-contemporary.svg" alt="" class="icon">Song 1: Born Again - Josh Garrels</h3>
-            <p>The lyrics can be found <a href="/downloads/Contemporary_Lyrics/Born Again - Josh Garrels.pdf" class="text-link" download>here!</a></p>
-            <div class="image"><img src="/Year_10/images/contemporary/josh-garrels-born-again_mnu74eno.jpeg" alt="" class="img-style"></div>
+            <h3><img src="/images/task-contemporary.svg" alt="" class="icon">Song 4: Gotta Live - Tedashii</h3>
+            <p>The lyrics can be found <a href="/downloads/Contemporary_Lyrics/Gotta Live - Tedashii.pdf" class="text-link" download>here!</a></p>
+            <div class="image"><img src="/Year_10/images/contemporary/Gotta_Live.jpg" alt="" class="img-style"></div>
             <div class="audio"><audio class="audio-style" controls>
-                    <source src="/Year_10/audio/Contemporary/01 - Born Again.mp3" type="audio/mp3">
+                    <source src="/Year_10/audio/Contemporary/01 - Gotta Live (feat. Jordan Feliz).mp3" type="audio/mp3">
                 </audio>
             </div>
         </div>
         <div class="task">
-            <h3><img src="/images/task-contemporary.svg" alt="" class="icon">Song 2: Die Free - Fireflight</h3>
-            <p>The lyrics can be found <a href="/downloads/Contemporary_Lyrics/Die Free - Fireflight.pdf" class="text-link" download>here!</a></p>
-            <div class="image"><img src="/Year_10/images/contemporary/Die_Free2.jpeg" alt="" class="img-style"></div>
+            <h3><img src="/images/task-contemporary.svg" alt="" class="icon">Song 5: No Chains - KB</h3>
+            <p>The lyrics can be found <a href="/downloads/Contemporary_Lyrics/No Chains - KB.pdf" class="text-link" download>here!</a></p>
+            <div class="image"><img src="/Year_10/images/contemporary/No Chains.png" alt="" class="img-style"></div>
             <div class="audio"><audio class="audio-style" controls>
-                    <source src="/Year_10/audio/Contemporary/01 - Die Free.mp3" type="audio/mp3">
+                    <source src="/Year_10/audio/Contemporary/01 - No Chains.mp3" type="audio/mp3">
                 </audio>
             </div>
         </div>
         <div class="task">
-            <h3><img src="/images/task-contemporary.svg" alt="" class="icon">Song 3: Fearless - Jasmine Murray</h3>
-            <p>The lyrics can be found <a href="/downloads/Contemporary_Lyrics/Fearless - Jasmine Murray.pdf" class="text-link" download>here!</a></p>
-            <div class="image"><img src="/Year_10/images/contemporary/Fearless - Jasmine.jpeg" alt="" class="img-style"></div>
+            <h3><img src="/images/task-contemporary.svg" alt="" class="icon">Song 6: One More day - Aaron Cole</h3>
+            <p>The lyrics can be found <a href="/downloads/Contemporary_Lyrics/One More Day - Aaron Cole.pdf" class="text-link" download>here!</a></p>
+            <div class="image"><img src="/Year_10/images/contemporary/One More Day.jpg" alt="" class="img-style"></div>
             <div class="audio"><audio class="audio-style" controls>
-                    <source src="/Year_10/audio/Contemporary/01 - Fearless.mp3" type="audio/mp3">
+                    <source src="/Year_10/audio/Contemporary/01 - One More Day.mp3" type="audio/mp3">
                 </audio>
             </div>
         </div>
-
-
 
 
         <div class="end-notes">
             <h3><img src="/images/lesson-thoughts.svg" alt="" class="icon">Lesson thoughts:</h3>
-            <p>Head to the next page to listen to more CCM.</p>
-            <a href="6.Existentialism.php"><img src="/Year_9/images/nav/left-arrow.svg"></a><br>
-            <a href="8.ccm_songAnalysis2.php"><img src="/Year_9/images/nav/right-arrow.svg"></a><br><br>
+            <p>Let's take a step back and look at some of the history of Christian Music through the decades.</p>
+            <a href="7.ccm_songAnalysis1.php"><img src="/Year_9/images/nav/left-arrow.svg"></a><br>
+            <a href="9.CCMBeginnings.php"><img src="/Year_9/images/nav/right-arrow.svg"></a><br><br>
         </div><br>
     </div>
 </div>

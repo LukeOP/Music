@@ -39,6 +39,18 @@
             <a href="6.Existentialism.php">
                 <li>Existentialism - The Pursuit of Choice</li>
             </a>
+            <a href="7.ccm_songAnalysis1.php">
+                <li>Christian Song Analysis 1</li>
+            </a>
+            <a href="8.ccm_songAnalysis2.php">
+                <li>Christian Song Analysis 2</li>
+            </a>
+            <a href="9.CCMBeginnings.php">
+                <li>CCM - In The Beginning...</li>
+            </a>
+            <a href="10.CCM2.php">
+                <li>CCM - 1970s</li>
+            </a>
         </ol>
         <br>
         <p>At the conclusion of this unit you should be able to explain the current changes in music development during the Contemporary Music era.
