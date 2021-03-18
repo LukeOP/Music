@@ -53,8 +53,8 @@
             <h3><img src="/images/lesson-thoughts.svg" alt="" class="icon">Lesson thoughts:</h3>
             <p>Christian music has been around for as long as written music has been able to record it.</p>
             <p>While there is a lot that could be covered in the many centuries from the gregorian chants to now, for this unit we are going to focus on the second half of the 20th century through to today.</p>
-            <a href="7.ccm_songAnalysis1.php"><img src="/Year_9/images/nav/left-arrow.svg"></a><br>
-            <a href="9.CCM2.php"><img src="/Year_9/images/nav/right-arrow.svg"></a><br><br>
+            <a href="8.ccm_songAnalysis2.php"><img src="/Year_9/images/nav/left-arrow.svg"></a><br>
+            <a href="10.CCM2.php"><img src="/Year_9/images/nav/right-arrow.svg"></a><br><br>
         </div><br>
     </div>
 </div>
