@@ -20,13 +20,12 @@
             <div class="text">Term 1: Contemporary</div>
         </div>
     </a>
-    <div class="Y10_units">
-        <img src="images/classical-main.jpg" alt="Term 2: Classical Music">
-        <p>Term 2: Classical Music</p>
+    <a href="units/classical/classical.php" class="Y10_units"><img src="images/classical-main.jpg" alt="Term 1: Classical Music">
+        <p>Term 2: Classical</p>
         <div class="overlay">
-            <div class="text">Term 2: Classical Music</div>
+            <div class="text">Term 2: Classical</div>
         </div>
-    </div>
+    </a>
     <div class="Y10_units"><img src="images/jazz-main.jpg" alt="Term 3: Jazz">
         <p>Term 3: Jazz</p>
         <div class="overlay">
