@@ -1,6 +1,6 @@
-<?php include($_SERVER['DOCUMENT_ROOT'] . '/templates/Y10_header.php') ?>
-<?php include($_SERVER['DOCUMENT_ROOT'] . '/templates/Y10_sidemenu.php') ?>
+<?php include($_SERVER['DOCUMENT_ROOT'] . '/templates/Y10_Combo_header.php') ?>
 
+<h1>This is a heading</h1>
 
 
 
